@@ -7,7 +7,9 @@ description: 审查 Agent Skill 的结构契约，重点检查术语一致性、
 
 ## 用途
 
-审查其他 Agent Skill 的结构设计，只检查四个方面：
+审查 Agent Skill 的结构设计，目标是减少 Agent 在读取和执行 Skill 时产生的理解歧义、执行错误和行为偏差。
+
+只检查四个方面：
 
 1. 术语一致性
 2. 步骤边界
